@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["cotes.chung@gmail.com"]
 
   spec.summary       = "Chirpy is a minimal, sidebar, responsive web design Jekyll theme that focuses on text presentation."
-  spec.homepage      = "https://github.com/cotes2020/jekyll-theme-chirpy"
+  spec.homepage      = "https://xw-coding.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f|
