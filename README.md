@@ -3,7 +3,7 @@
 
 > I never expect this becomes popular.
 
-[//]: # (![]&#40;http://huangxuan.me/img/blog-desktop.jpg&#41;)
+[//]: # (![]&#40;https://xw-coding.github.io/img/blog-desktop.jpg&#41;)
 
 
 [User Manual 👉](_doc/Manual.md)

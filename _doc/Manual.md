@@ -126,7 +126,7 @@ Etc.
 
 ### SideBar
 
-![](http://huangxuan.me/img/blog-sidebar.jpg)
+![](https://xw-coding.github.io/img/blog-sidebar.jpg)
 
 **SideBar** provides possible modules to show off more personal information.
 
@@ -183,7 +183,7 @@ friends: [
 
 ### Keynote Layout
 
-![](http://huangxuan.me/img/blog-keynote.jpg)
+![](https://xw-coding.github.io/img/blog-keynote.jpg)
 
 There is a increased trend to use Open Web technology for keynotes and presentations via Reveal.js, Impress.js, Slides, Prezi etc. I consider a modern blog should have first-class support to embed these HTML based presentation so **Keynote layout** are made.
 
@@ -192,7 +192,7 @@ To use, in the **front-matter**:
 ```yml
 ---
 layout:     keynote
-iframe:     "http://huangxuan.me/js-module-7day/"
+iframe:     "https://xw-coding.github.io/js-module-7day/"
 ---
 ```
 
@@ -318,7 +318,7 @@ Shout out to [@kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-
 
 - Big Improvement to the **Navigation Menu** *(especially in Android)*:  Dropping the old, stuttering, low-performance [Bootstrap collapse.js](http://getbootstrap.com/javascript/#collapse),  replaced with an own wrote, [jank free](http://jankfree.org/) navbar menu in a pretty high-performance implementation of [Google Material Design](https://www.google.com/design/spec/material-design/introduction.html).
 
-<img src="http://huangxuan.me/img/blog-md-navbar.gif" width="320" />
+<img src="https://xw-coding.github.io/img/blog-md-navbar.gif" width="320" />
 
 
 #### V1.2
