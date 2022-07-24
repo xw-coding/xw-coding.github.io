@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[XW Blog](https://xw-coding.github.io)
 ================================
 
 > I never expect this becomes popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+[//]: # (![]&#40;http://huangxuan.me/img/blog-desktop.jpg&#41;)
 
 
 [User Manual 👉](_doc/Manual.md)
