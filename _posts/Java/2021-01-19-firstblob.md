@@ -2,10 +2,12 @@
 
 ---
 layout: post
-title: 测试
-author: "xwjiang"
-header-style: text
+title: "程序员中的梦想家"
+subtitle: "Dreamers among programmers"
+author: "Hux"
+header-img: "img/post-bg-dreamer.jpg"
+header-mask: 0.4
 tags:
-- Web
-- 知乎
+- Facebook
+- 生活
 ---
