@@ -77,7 +77,7 @@ You can choose one of the following methods to install Not Pure Poole:
         plugins:
           - jekyll-remote-theme
 
-        remote_theme: vszhub/not-pure-poole
+        remote_theme: xw-coding/not-pure-poole
         ```
 
 ## Usage
@@ -136,13 +136,13 @@ You can set your social links in `_data/social.yml`. You can custom titles, URLs
 
 ```yml
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://xw-coding@gmail.com
   icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com/vszhub
+  url: https://twitter.com/xw-coding
   icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/xw-coding/not-pure-poole
   icon: fab fa-github
 ```
 

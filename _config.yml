@@ -29,11 +29,11 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: xw-coding
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: 新炜 姜
   links:
     - https://xw-coding.github.io
 lang: en
